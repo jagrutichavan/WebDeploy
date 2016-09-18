@@ -1,0 +1,80 @@
+body {
+
+	font-size: 16px;
+	color: #fff;
+	background-color: #f2f2f2;
+	font-family: times, sans-serif;
+}
+
+#header-nav {
+	background-color: #808080;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: auto;
+}
+
+.navbar-brand h1 {
+	font-family: 'Lora', serif;
+	color: #cc0000;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75; 
+}
+
+.container h1 {
+	margin-left: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+.menu-item-tile {
+	margin-top: 15px;
+}
+
+.menu-item-tile p, .menu-item-tile h3{
+	background-color: #000;
+	opacity: .7;
+	padding: 15px;
+	overflow: hidden;
+	margin: 0 0 0 0;
+
+}
+
+.menu-item-tile h3 {
+	text-align: center;
+	font-family: 'Lora', serif;
+}
+
+#menu-catogories-tile {
+	color: #000;
+	opacity: .8;
+	font-size: 1.9em;
+}
+
+
